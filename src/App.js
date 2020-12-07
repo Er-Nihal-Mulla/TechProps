@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import {Helmet} from 'react-helmet';
+import Header from './components/Header/Header'
+import About from './components/About/About'
+import Shop from './components/Shop/Shop'
+import Menu from './components/Menu/Menu'
+import Client from './components/Clientss/Client'
+import Prices from './components/Prices/Prices'
+
+
+const TITLE = "TechProps"
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Helmet>
+      <title>{TITLE}</title>
+    </Helmet>
+
+    <Header/>
+    <About/>
+    <Shop/>
+    <Menu/>
+    <Client/>
+    <Prices/>
     </div>
   );
 }
