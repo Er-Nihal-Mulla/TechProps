@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TechProps/static/css/main.b0dc53f5.chunk.css",
+    "main.js": "/TechProps/static/js/main.fd61a327.chunk.js",
+    "main.js.map": "/TechProps/static/js/main.fd61a327.chunk.js.map",
+    "runtime-main.js": "/TechProps/static/js/runtime-main.f8eab4a7.js",
+    "runtime-main.js.map": "/TechProps/static/js/runtime-main.f8eab4a7.js.map",
+    "static/js/2.b05c0b4d.chunk.js": "/TechProps/static/js/2.b05c0b4d.chunk.js",
+    "static/js/2.b05c0b4d.chunk.js.map": "/TechProps/static/js/2.b05c0b4d.chunk.js.map",
+    "index.html": "/TechProps/index.html",
+    "static/css/main.b0dc53f5.chunk.css.map": "/TechProps/static/css/main.b0dc53f5.chunk.css.map",
+    "static/js/2.b05c0b4d.chunk.js.LICENSE.txt": "/TechProps/static/js/2.b05c0b4d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TechProps/static/media/bg.49797074.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8eab4a7.js",
+    "static/js/2.b05c0b4d.chunk.js",
+    "static/css/main.b0dc53f5.chunk.css",
+    "static/js/main.fd61a327.chunk.js"
+  ]
+}
